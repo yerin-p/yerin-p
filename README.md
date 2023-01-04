@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={[handle](https://github.com/yerin-p)})](https://solved.ac/{[handle](https://github.com/yerin-p)})
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin-p&show_icons=true&theme=radical)
